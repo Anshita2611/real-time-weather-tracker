@@ -1,8 +1,4 @@
 # Real-Time Weather Tracker
-<video width="320" height="240" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Project Overview
 Weather Tracker is a dynamic web application built using React that provides real-time weather updates. The application utilizes the OpenWeatherMap API to fetch weather data and displays it in an intuitive and user-friendly interface.
